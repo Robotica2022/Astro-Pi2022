@@ -1,2 +1,8 @@
 # Astro-Pi2022
-Astro Pi - Space Lab files
+
+The ISS is the largest man-made object to orbit the Earth. It maintains an orbit at an average altitude of 400 kilometres through of a US non-propulsive attitude control system, provided by 4 control moment gyroscopes and a Russian thruster attitude control system, which uses the engines of the Zvezda Service Module or docked spacecrafts. On July 29, the thrusters on the Russian module “Nauka” unexpectedly fired  and as a result, the space station temporarily lost attitude control for 47 minutes. Again, on October 15, the ISS rotated  57 degrees while testing engines aboard the Soyuz MS-18 spacecraft.
+This type of incident can cause serious structural damage to the Station, so they must be detected quickly to initiate emergency procedures. Our experiment aims to monitor the Station’s movement and rotation, providing attitude control warnings to the crew. We plan to collect data from gyroscope and accelerometer sensors and analyse then to identified events that might occur.
+
+
+We will use the Inertial Measurement Unit (gyroscope and accelerometer sensors inside the Astro Pi) to record the orientation and the X, Y and Z axes accelerometer readings. The PIR motion sensor will indicate if a crew member is near the Astro Pi and may be responsible for the variation in accelerometer values. Otherwise, the LED matrix will display a warning message and log the event.
+The data will be gathered into a CSV file along with the timestamp and geotag, using Python’s skyfield library to get the ISS location. This will help us demonstrate correlations between data and events that may have occurred. During the experiment, the LED matrix will randomly display pixels to confirm that the code is running.
