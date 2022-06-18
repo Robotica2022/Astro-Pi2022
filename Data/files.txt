@@ -1,0 +1,7 @@
+50e6a9242bda4be952f64ccd7aa8ecfc  /home/pi/msl/jase/data.csv
+8cea315ee9ea02bb13b3041905448cd9  /home/pi/msl/jase/status.txt
+307e8844cf543cdd617dd78d5ea186e4  /home/pi/msl/jase/JASE.log
+3edc92e4cdb512ec277dc3ab7a72d428  /home/pi/msl/jase/main.py
+307e8844cf543cdd617dd78d5ea186e4  /home/pi/msl/jase/output.log
+340e7963b7f2d078239e01e12addaf5a  /home/pi/msl/jase/._main.py
+4d59ea4d8450280694ecfcba75e530f9  /home/pi/msl/jase/time.txt

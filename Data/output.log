@@ -1,0 +1,203 @@
+[I 220416 14:58:11 main:106] Mission Status: Initiated
+[I 220416 14:59:07 main:143] Astronaut detected
+[I 220416 14:59:20 main:143] Astronaut detected
+[I 220416 14:59:25 main:143] Astronaut detected
+[I 220416 14:59:47 main:143] Astronaut detected
+[I 220416 15:06:40 main:143] Astronaut detected
+[I 220416 15:07:23 main:143] Astronaut detected
+[I 220416 15:07:32 main:143] Astronaut detected
+[I 220416 15:07:41 main:143] Astronaut detected
+[I 220416 15:08:12 main:143] Astronaut detected
+[I 220416 15:08:42 main:143] Astronaut detected
+[I 220416 15:09:33 main:143] Astronaut detected
+[I 220416 15:09:42 main:143] Astronaut detected
+[I 220416 15:10:58 main:143] Astronaut detected
+[I 220416 15:12:14 main:143] Astronaut detected
+[I 220416 15:14:24 main:143] Astronaut detected
+[I 220416 15:14:28 main:205] ISS motion detected in: ['z']
+[I 220416 15:14:28 main:206] x=-0.001, y=-0.001, z=-0.006
+[I 220416 15:14:36 main:143] Astronaut detected
+[I 220416 15:14:45 main:143] Astronaut detected
+[I 220416 15:15:28 main:143] Astronaut detected
+[I 220416 15:17:42 main:143] Astronaut detected
+[I 220416 15:18:07 main:205] ISS motion detected in: ['z']
+[I 220416 15:18:07 main:206] x=0.001, y=0.0, z=-0.006
+[I 220416 15:19:22 main:143] Astronaut detected
+[I 220416 15:20:17 main:143] Astronaut detected
+[I 220416 15:20:51 main:143] Astronaut detected
+[I 220416 15:22:49 main:143] Astronaut detected
+[I 220416 15:26:18 main:143] Astronaut detected
+[I 220416 15:29:13 main:143] Astronaut detected
+[I 220416 15:31:07 main:143] Astronaut detected
+[I 220416 15:31:16 main:143] Astronaut detected
+[I 220416 15:32:24 main:143] Astronaut detected
+[I 220416 15:32:29 main:143] Astronaut detected
+[I 220416 15:34:13 main:205] ISS motion detected in: ['z']
+[I 220416 15:34:13 main:206] x=0.001, y=-0.001, z=-0.006
+[I 220416 15:34:33 main:143] Astronaut detected
+[I 220416 15:41:30 main:205] ISS motion detected in: ['z']
+[I 220416 15:41:30 main:206] x=0.002, y=0.001, z=-0.006
+[I 220416 15:43:42 main:205] ISS motion detected in: ['z']
+[I 220416 15:43:42 main:206] x=-0.002, y=0.001, z=0.006
+[I 220416 15:47:43 main:143] Astronaut detected
+[I 220416 15:48:00 main:143] Astronaut detected
+[I 220416 15:49:45 main:143] Astronaut detected
+[I 220416 15:51:17 main:205] ISS motion detected in: ['x', 'z']
+[I 220416 15:51:17 main:206] x=0.009, y=0.002, z=0.015
+[I 220416 15:51:25 main:143] Astronaut detected
+[I 220416 15:52:07 main:205] ISS motion detected in: ['z']
+[I 220416 15:52:07 main:206] x=-0.001, y=-0.001, z=-0.006
+[I 220416 15:52:35 main:143] Astronaut detected
+[I 220416 15:53:10 main:143] Astronaut detected
+[I 220416 15:53:31 main:143] Astronaut detected
+[I 220416 15:59:04 main:205] ISS motion detected in: ['z']
+[I 220416 15:59:04 main:206] x=0.001, y=-0.002, z=-0.006
+[I 220416 16:00:43 main:205] ISS motion detected in: ['z']
+[I 220416 16:00:43 main:206] x=0.0, y=0.001, z=0.006
+[I 220416 16:01:41 main:143] Astronaut detected
+[I 220416 16:03:42 main:205] ISS motion detected in: ['z']
+[I 220416 16:03:42 main:206] x=0.0, y=0.0, z=0.006
+[I 220416 16:06:03 main:143] Astronaut detected
+[I 220416 16:10:34 main:205] ISS motion detected in: ['z']
+[I 220416 16:10:34 main:206] x=0.001, y=0.002, z=0.006
+[I 220416 16:10:45 main:205] ISS motion detected in: ['z']
+[I 220416 16:10:45 main:206] x=-0.002, y=0.001, z=0.007
+[I 220416 16:11:51 main:143] Astronaut detected
+[I 220416 16:12:42 main:143] Astronaut detected
+[I 220416 16:13:24 main:143] Astronaut detected
+[I 220416 16:13:59 main:143] Astronaut detected
+[I 220416 16:14:25 main:143] Astronaut detected
+[I 220416 16:15:37 main:143] Astronaut detected
+[I 220416 16:15:50 main:143] Astronaut detected
+[I 220416 16:16:16 main:143] Astronaut detected
+[I 220416 16:18:09 main:143] Astronaut detected
+[I 220416 16:18:10 main:205] ISS motion detected in: ['x', 'z']
+[I 220416 16:18:10 main:206] x=-0.007, y=-0.004, z=-0.025
+[I 220416 16:18:34 main:143] Astronaut detected
+[I 220416 16:18:48 main:143] Astronaut detected
+[I 220416 16:20:24 main:143] Astronaut detected
+[I 220416 16:20:34 main:143] Astronaut detected
+[I 220416 16:21:54 main:143] Astronaut detected
+[I 220416 16:22:03 main:143] Astronaut detected
+[I 220416 16:22:08 main:143] Astronaut detected
+[I 220416 16:22:34 main:143] Astronaut detected
+[I 220416 16:23:08 main:143] Astronaut detected
+[I 220416 16:23:30 main:143] Astronaut detected
+[I 220416 16:23:40 main:143] Astronaut detected
+[I 220416 16:24:09 main:205] ISS motion detected in: ['z']
+[I 220416 16:24:09 main:206] x=0.003, y=-0.001, z=-0.006
+[I 220416 16:27:20 main:143] Astronaut detected
+[I 220416 16:27:28 main:205] ISS motion detected in: ['z']
+[I 220416 16:27:28 main:206] x=0.0, y=0.001, z=0.006
+[I 220416 16:29:04 main:143] Astronaut detected
+[I 220416 16:29:09 main:143] Astronaut detected
+[I 220416 16:29:52 main:143] Astronaut detected
+[I 220416 16:30:13 main:143] Astronaut detected
+[I 220416 16:30:35 main:143] Astronaut detected
+[I 220416 16:30:44 main:143] Astronaut detected
+[I 220416 16:30:45 main:205] ISS motion detected in: ['z']
+[I 220416 16:30:45 main:206] x=0.001, y=-0.001, z=0.006
+[I 220416 16:31:26 main:143] Astronaut detected
+[I 220416 16:32:46 main:143] Astronaut detected
+[I 220416 16:32:55 main:143] Astronaut detected
+[I 220416 16:33:12 main:205] ISS motion detected in: ['z']
+[I 220416 16:33:12 main:206] x=-0.001, y=0.001, z=-0.006
+[I 220416 16:33:24 main:143] Astronaut detected
+[I 220416 16:33:33 main:143] Astronaut detected
+[I 220416 16:33:39 main:143] Astronaut detected
+[I 220416 16:33:44 main:143] Astronaut detected
+[I 220416 16:35:07 main:205] ISS motion detected in: ['z']
+[I 220416 16:35:07 main:206] x=0.0, y=0.0, z=0.006
+[I 220416 16:36:17 main:205] ISS motion detected in: ['z']
+[I 220416 16:36:17 main:206] x=-0.003, y=0.0, z=0.006
+[I 220416 16:38:04 main:143] Astronaut detected
+[I 220416 16:41:04 main:143] Astronaut detected
+[I 220416 16:42:04 main:143] Astronaut detected
+[I 220416 16:42:34 main:143] Astronaut detected
+[I 220416 16:42:47 main:143] Astronaut detected
+[I 220416 16:43:05 main:143] Astronaut detected
+[I 220416 16:44:25 main:143] Astronaut detected
+[I 220416 16:44:38 main:143] Astronaut detected
+[I 220416 16:44:44 main:143] Astronaut detected
+[I 220416 16:45:17 main:205] ISS motion detected in: ['z']
+[I 220416 16:45:17 main:206] x=-0.001, y=0.001, z=0.006
+[I 220416 16:45:37 main:143] Astronaut detected
+[I 220416 16:45:55 main:143] Astronaut detected
+[I 220416 16:45:55 main:205] ISS motion detected in: ['x']
+[I 220416 16:45:55 main:206] x=0.009, y=0.001, z=0.001
+[I 220416 16:46:03 main:143] Astronaut detected
+[I 220416 16:46:33 main:143] Astronaut detected
+[I 220416 16:47:07 main:143] Astronaut detected
+[I 220416 16:48:07 main:143] Astronaut detected
+[I 220416 16:48:37 main:143] Astronaut detected
+[I 220416 16:53:57 main:205] ISS motion detected in: ['z']
+[I 220416 16:53:57 main:206] x=0.001, y=0.0, z=-0.006
+[I 220416 16:55:40 main:205] ISS motion detected in: ['z']
+[I 220416 16:55:40 main:206] x=-0.001, y=0.0, z=-0.006
+[I 220416 16:58:35 main:143] Astronaut detected
+[I 220416 16:58:56 main:143] Astronaut detected
+[I 220416 16:59:17 main:205] ISS motion detected in: ['z']
+[I 220416 16:59:17 main:206] x=0.0, y=-0.001, z=0.006
+[I 220416 16:59:50 main:143] Astronaut detected
+[I 220416 17:00:08 main:143] Astronaut detected
+[I 220416 17:00:17 main:143] Astronaut detected
+[I 220416 17:00:39 main:143] Astronaut detected
+[I 220416 17:01:59 main:143] Astronaut detected
+[I 220416 17:02:38 main:143] Astronaut detected
+[I 220416 17:05:46 main:143] Astronaut detected
+[I 220416 17:07:51 main:205] ISS motion detected in: ['z']
+[I 220416 17:07:51 main:206] x=0.002, y=-0.001, z=-0.007
+[I 220416 17:10:20 main:143] Astronaut detected
+[I 220416 17:11:44 main:143] Astronaut detected
+[I 220416 17:12:18 main:205] ISS motion detected in: ['z']
+[I 220416 17:12:18 main:206] x=0.0, y=-0.001, z=-0.006
+[I 220416 17:16:14 main:205] ISS motion detected in: ['z']
+[I 220416 17:16:14 main:206] x=0.0, y=0.0, z=-0.006
+[I 220416 17:17:36 main:205] ISS motion detected in: ['y', 'z']
+[I 220416 17:17:36 main:206] x=0.002, y=-0.007, z=-0.09
+[I 220416 17:18:00 main:143] Astronaut detected
+[I 220416 17:18:06 main:143] Astronaut detected
+[I 220416 17:18:32 main:143] Astronaut detected
+[I 220416 17:25:50 main:143] Astronaut detected
+[I 220416 17:26:32 main:143] Astronaut detected
+[I 220416 17:26:37 main:143] Astronaut detected
+[I 220416 17:26:43 main:143] Astronaut detected
+[I 220416 17:28:15 main:143] Astronaut detected
+[I 220416 17:28:24 main:143] Astronaut detected
+[I 220416 17:28:29 main:143] Astronaut detected
+[I 220416 17:29:41 main:143] Astronaut detected
+[I 220416 17:29:59 main:143] Astronaut detected
+[I 220416 17:30:33 main:143] Astronaut detected
+[I 220416 17:31:07 main:143] Astronaut detected
+[I 220416 17:31:13 main:143] Astronaut detected
+[I 220416 17:31:34 main:143] Astronaut detected
+[I 220416 17:32:04 main:205] ISS motion detected in: ['z']
+[I 220416 17:32:04 main:206] x=-0.002, y=0.002, z=0.007
+[I 220416 17:32:12 main:143] Astronaut detected
+[I 220416 17:32:12 main:205] ISS motion detected in: ['z']
+[I 220416 17:32:12 main:206] x=0.0, y=0.0, z=-0.006
+[I 220416 17:32:49 main:143] Astronaut detected
+[I 220416 17:33:06 main:143] Astronaut detected
+[I 220416 17:33:20 main:143] Astronaut detected
+[I 220416 17:33:25 main:143] Astronaut detected
+[I 220416 17:33:39 main:143] Astronaut detected
+[I 220416 17:33:48 main:143] Astronaut detected
+[I 220416 17:34:35 main:143] Astronaut detected
+[I 220416 17:35:30 main:143] Astronaut detected
+[I 220416 17:35:35 main:143] Astronaut detected
+[I 220416 17:35:52 main:205] ISS motion detected in: ['z']
+[I 220416 17:35:52 main:206] x=0.0, y=0.001, z=-0.006
+[I 220416 17:36:29 main:143] Astronaut detected
+[I 220416 17:37:03 main:143] Astronaut detected
+[I 220416 17:37:46 main:143] Astronaut detected
+[I 220416 17:37:55 main:143] Astronaut detected
+[I 220416 17:38:42 main:143] Astronaut detected
+[I 220416 17:39:04 main:143] Astronaut detected
+[I 220416 17:39:09 main:143] Astronaut detected
+[I 220416 17:40:12 main:143] Astronaut detected
+[I 220416 17:40:17 main:143] Astronaut detected
+[I 220416 17:40:23 main:143] Astronaut detected
+[I 220416 17:40:28 main:143] Astronaut detected
+[I 220416 17:40:37 main:143] Astronaut detected
+[I 220416 17:45:46 main:143] Astronaut detected
+[I 220416 17:53:15 main:221] Mission Status: Complete
